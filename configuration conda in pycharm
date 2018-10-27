@@ -1,0 +1,12 @@
+open pycharm 
+
+click create new project or open 
+
+click create
+
+configuration interpreter 
+
+file->settings->project untitled -> project interpreter
+
+->click *(chilun)->show all-> click python C:\user\***\anaconda\python.exe 
+
