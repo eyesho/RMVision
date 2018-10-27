@@ -8,5 +8,7 @@ configuration interpreter
 
 file->settings->project untitled -> project interpreter
 
-->click *(chilun)->show all-> click python C:\user\***\anaconda\python.exe 
+click *(chilun)->show all-> click python C:\user\***\anaconda\python.exe 
+
+click ok
 
